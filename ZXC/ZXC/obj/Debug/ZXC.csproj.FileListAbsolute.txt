@@ -1,0 +1,8 @@
+C:\Users\Computer-Nutzer\source\repos\ZXC\ZXC\obj\Debug\ZXC.csproj.AssemblyReference.cache
+C:\Users\Computer-Nutzer\source\repos\ZXC\ZXC\obj\Debug\ZXC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer-Nutzer\source\repos\ZXC\ZXC\obj\Debug\ZXC.csproj.CoreCompileInputs.cache
+C:\Users\Computer-Nutzer\source\repos\ZXC\ZXC\bin\Debug\ZXC.exe.config
+C:\Users\Computer-Nutzer\source\repos\ZXC\ZXC\bin\Debug\ZXC.exe
+C:\Users\Computer-Nutzer\source\repos\ZXC\ZXC\bin\Debug\ZXC.pdb
+C:\Users\Computer-Nutzer\source\repos\ZXC\ZXC\obj\Debug\ZXC.exe
+C:\Users\Computer-Nutzer\source\repos\ZXC\ZXC\obj\Debug\ZXC.pdb
